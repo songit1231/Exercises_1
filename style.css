@@ -197,7 +197,7 @@ header nav ul li a:hover{
     align-items: center;
     justify-content: center;
     gap: 25px;
-    
+    margin: -40px auto 0 auto;
 }
 .card {
     position: relative;
@@ -259,4 +259,18 @@ header nav ul li a:hover{
         font-size: 24px;
         font-weight: bold;
       }
+    .features{
+        margin: 100px auto 0 auto;
+        flex-wrap: wrap;
+        
+    }
+    .body1 h1{
+        font-size: 50px;
+    }
+    .body1{
+        margin: -10px auto 0 auto;
+    }
+    .body1 p{
+        font-size: 17px;
+    }
   }
